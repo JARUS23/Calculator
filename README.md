@@ -14,6 +14,6 @@ python calculcator.py
 <div>
 <p float="left">
   <img src="dark.png" width="200" />
-  <img src="light.png" width="400" /> 
+  <img src="light.png" width="200" /> 
 </p>
 </div>
